@@ -20,5 +20,5 @@ I come from a small town but have big dreams of building impactful tech solution
 
 📫 Let's Connect:
 
-GitHub: github.com/your-username
-LinkedIn: linkedin.com/in/your-profile
+GitHub: github.com/your-shobhittiwari1
+LinkedIn: linkedin.com/in/shobhit-tiwari
